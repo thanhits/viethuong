@@ -451,7 +451,7 @@ body .tp0 {
 	height: 100%;
 	top: 0;
 	content: "";
-	background: rgba(0,0,0,.4);
+	/*background: rgba(0,0,0,.4);*/
 }
 .main-slider img {
 	width: 100%;
@@ -558,7 +558,7 @@ body .tp0 {
 	font-weight: 600;
 	text-transform: uppercase;
 	color: #fff;
-	font-size: 24px;
+	font-size: 20px;
 	margin: 0 0 20px;
 	position: relative;
 }
@@ -1631,8 +1631,8 @@ body .faqs .collapse {
 	font-weight: 500;
 }
 .post-text {
-	float: right;
-	width: 280px;
+	/*float: right;
+	width: 280px;*/
 }
 .post-text > h5 {
 	margin: 0 0 6px;
@@ -2451,13 +2451,13 @@ body .faqs .collapse {
 	background: #fff;
 }
 .news-box-classic .news-content {
-	width: 262px;
-	float: right;
+	/*width: 262px;*/
+	float: left;
 	margin-left: 30px;
 }
 .news-box-classic .news-content .post-text {
 	float: left;
-	width: 100%;
+	/*width: 100%;*/
 }
 .news-box-classic .post-date {
 	margin-bottom: 10px;
